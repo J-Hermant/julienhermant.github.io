@@ -14,6 +14,6 @@ subtitle:
 - PEPR-PDE AI online meeting - April 2024\
 *Convergence accélérée sous hypothèse de forte quasar convexité*
 *Accelerated optimization algorithms in machine learning*
-- Poster presentation, SMAI-MODE 2024 - March 2024\
+- Poster presentation, SMAI-MODE 2024 - March 2024
 - Kick-off meeting of the PEPR-PDE AI - January 2024\
 *Étude d'algorithmes d'optimisation inertiels appliqués à des fonctions non convexes*
