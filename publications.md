@@ -4,12 +4,13 @@ title: Publications
 subtitle: 
 ---
 
-
-- *Low dimensional representation of multi-patient flow cytometry datasets using optimal transport for minimal residual disease detection in leukemia.* Preprint\
-with [Elsa Cazelles](https://www.irit.fr/~Elsa.Cazelles/), [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/), Aguirre Mimoun and Jean-Philippe Vial\
-[[arXiv]](http://arxiv.org/abs/2407.17329) [[HAL]](https://hal.science/hal-04661639) [[code]](https://github.com/erellgachon/CytoLOT)
-- *Some Easy Instances of Ideal-SVP and Implications on the Partial Vandermonde Knapsack Problem.* CRYPTO2022\
-with [Katharina Boudgoust](https://katinkabou.github.io/) and [Alice Pellet-Mary](https://apelletm.pages.math.cnrs.fr/page-perso/home.html)\
-Best Early Career Researcher Award.\
-[[eprint]](https://eprint.iacr.org/2022/709)
+- *Convergence Analysis of a Proximal Stochastic Denoising Regularization Algorithm* Preprint\
+  Marien Renaud, J-H, [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~npapadak/)\
+  [[arXiv]](https://arxiv.org/abs/2412.08262)
+- *Gradient correlation is a key ingredient to accelerate SGD with momentum* Preprint\
+  J-H, Marien Renaud, [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/), [Charles Dossal](https://perso.math.univ-toulouse.fr/cdossal/) and [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/)\
+[[arXiv]]([http://arxiv.org/abs/2407.17329](https://arxiv.org/abs/2410.07870)) [[code]](https://github.com/J-Hermant/Momentum_Stochastic_GD)
+- *Study of the behaviour of Nesterov Accelerated Gradient in a non convex setting: the strongly quasar convex case* Preprint\
+ J-H, [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/), [Charles Dossal](https://perso.math.univ-toulouse.fr/cdossal/) and [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/)\
+[[arXiv]](https://arxiv.org/abs/2405.19809)
 
