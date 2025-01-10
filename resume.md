@@ -7,24 +7,23 @@ subtitle:
 ## Education
 
 - **PhD student**\
-*November 2023-*\
-Supervisors : [Elsa Cazelles](https://www.irit.fr/~Elsa.Cazelles/), [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/)\
+*October 2023-*\
+Supervisors : [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/) and [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/)\
 IMB, University of Bordeaux
-- **Master in [Cryptography and Cybersecurity](https://mastercsi.labri.fr/)**\
+- **Master in [Stochastic and stastistic modelisation](https://uf-mi.u-bordeaux.fr/MSS/)**\
 *2021-2023*\
 University of Bordeaux.
-- **Bachelor in Mathematics and Computer Science**\
-*2018-2021*\
+- **Bachelor in foundamental Mathematics**\
+*2016-2020*\
 University of Bordeaux.\
-Laureate of the 2021 [Isabelle Attali Prize](https://prix-isabelle-attali.labri.fr/)
 
 ## Professional experiences
 
-- **Research internship** : Optimal transport applied to cytometry data.\
-*June 2023-September 2023*\
-Supervisor : [Jérémie Bigot](https://sites.google.com/site/webpagejbigot/)\
+- **Research internship** : Inertial dynamic system and non convex functions.\
+*February 2023-August 2023*\
+Supervisors :[Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/), [Charles Dossal](https://perso.math.univ-toulouse.fr/cdossal/) and [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/)\
 IMB, University of Bordeaux
-- **Research internship** : Post-Quantum Cryptography\
-*May 2021-June 2021*\
-Supervisor : [Alice Pellet-Mary](https://apelletm.pages.math.cnrs.fr/page-perso/home.html)\
-IMB, University of Bordeaux.
+- **Research internship** : Calibration of a cell trajectory model\
+*May 2022-August 2022*\
+Supervisor : [Christèle Etchegaray](https://www.math.u-bordeaux.fr/~cetchegar001/fr/)\
+INRIA Sud-ouest, IMB, University of Bordeaux.
