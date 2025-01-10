@@ -5,7 +5,7 @@ subtitle:
 ---
 
 - *Convergence Analysis of a Proximal Stochastic Denoising Regularization Algorithm* Preprint\
-  Marien Renaud, J-H, [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~npapadak/)\
+  Marien Renaud, J-H, [Nicolas Papadakis](https://www.math.u-bordeaux.fr/~npapadak/)\
   [[arXiv]](https://arxiv.org/abs/2412.08262)
 - *Gradient correlation is a key ingredient to accelerate SGD with momentum* Preprint\
   J-H, Marien Renaud, [Jean-Francois Aujol](https://www.math.u-bordeaux.fr/~jaujol/), [Charles Dossal](https://perso.math.univ-toulouse.fr/cdossal/) and [Aude Rondepierre](https://perso.math.univ-toulouse.fr/rondepierre/)\
