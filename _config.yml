@@ -53,11 +53,11 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "erell.gachon@math.u-bordeaux.fr"
-  github: erellgachon
+  email: "julien.hermant@math.u-bordeaux.fr"
+  github: J-Hermant
   linkedin: erell-gachon-742040213
-  ORCID: 0009-0001-2322-9823
-  google-scholar: https://scholar.google.com/citations?hl=en&user=Ppkkw0oAAAAJ
+  ORCID: 0009-0009-2060-8500
+  google-scholar: https://scholar.google.com/citations?user=1qlq42oAAAAJ&hl=fr
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
