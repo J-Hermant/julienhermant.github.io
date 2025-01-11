@@ -13,8 +13,7 @@
 title: Julien Hermant
 
 # Your name to show in the footer
-author: This website is inspired by <a href="https://erellgachon.github.io/">Erell Gachon</a>'s 
-share-title: Julien Hermant
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -222,7 +221,7 @@ footer-hover-col: "#0085A1"
 ################
 # --- Misc --- #
 ################
-
+footer-extra:" This website is inspired by <a href="https://erellgachon.github.io/">Erell Gachon</a>'s "
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
 
