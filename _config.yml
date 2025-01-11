@@ -112,7 +112,7 @@ navbar-var-length: false
 page-col: "#EAEAEA"
 text-col: "#404040"
 link-col: "#DC143C"
-hover-col: "#DC143C"
+hover-col: "#ffd700"
 navbar-col: "#DC143C"
 navbar-text-col: "#ffd700"
 navbar-border-col: "#ffd700"
