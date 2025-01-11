@@ -221,7 +221,7 @@ footer-hover-col: "#0085A1"
 ################
 # --- Misc --- #
 ################
-footer-extra:" This website is inspired by <a href="https://erellgachon.github.io/">Erell Gachon</a>'s "
+#footer-extra:" This website is inspired by <a href="https://erellgachon.github.io/">Erell Gachon</a>'s "
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
 
